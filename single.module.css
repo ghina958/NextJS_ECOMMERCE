@@ -1,0 +1,20 @@
+.product {
+  display: flex;
+  justify-content: space-between;
+  padding: 45px 0;
+}
+.des {
+  padding: 20px 30px;
+  line-height: 30px;
+}
+.des p {
+  line-height: 20px;
+}
+.des h3 {
+  background-color: bisque;
+  background-size: 20px;
+  padding: 10px 10px;
+}
+.img {
+  margin: 20px auto;
+}
